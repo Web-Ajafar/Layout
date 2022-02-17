@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.container{width: 90%;margin: auto;}
+.header{width: 100%;background-color: rgb(250, 243, 242);float: left;
+
+}
+
+.logo-part{
+    background-color: rgb(154, 156, 17);width: 20%;
+    float: left;padding: 15px;text-align: center;
+}
+.menu-part{background-color: rgb(42, 157, 165);width: 60%;
+float: left;text-decoration: none;padding: 60px;
+
+}
+.menu-part a{
+    color: white;padding: 50px;
+}
+.search-part{
+background-color: rgb(17, 0, 255);width: 20%;padding: 60px;
+float: left;
+}
+.hero{background-color: black;color: white;float: left;
+width: 100%;}
+
+.writing-part{width: 50%;float: left;padding: 20px;margin: auto;background-color: rgba(255, 238, 0, 0.082);}
+.writing-part h1{font-size: 30px;padding: 10px;text-align: center;color: rgb(238, 12, 12);}
+.writing-part h2{font-size: 40px;text-align: left;padding: 10px;color: aqua;}
+.writing-part p{font-size: 20px;text-align: left;color: blueviolet;padding: 10px;}
+
+
+.img-part{width: 50%;float: left;text-align: center;padding: 20px;padding: 30px;}
+.about{width: 100%;float: left;
+}
+.part-one{background-color: aqua;height: 200px;
+float: left;width: 25%;
+}
+.part-two{background-color: rgb(94, 255, 0);height: 200px;
+width: 50%;float: left;
+}
+.part-three{background-color: rgb(0, 17, 255);height: 200px;
+width: 25%;float: left;
+}
